@@ -2,7 +2,9 @@
 title: "Noise"
 author: "Manzoor Elahi"
 date: "Sunday, December 21, 2014"
-output: html_document
+output:
+  html_document:
+    theme: journal
 runtime: shiny
 ---
 
